@@ -26,7 +26,7 @@ namespace WebApplication2.Account
            Label8.Text = m.strs3[9];
            Label10.Text = m.strs4[9];
                        
-
+// klk
         }
 
         
